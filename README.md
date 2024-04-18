@@ -11,8 +11,4 @@
     - Cuối cùng khẳng định là dị vật, phẫu thuật:
     - ![image](https://github.com/BsNgChiThanh/Di-vat-got-chan/assets/82578024/0a47b496-8f27-46db-aa81-38bc744f6634)
     - ![image](https://github.com/BsNgChiThanh/Di-vat-got-chan/assets/82578024/3ddfa644-1ab3-4ac5-a372-28bd3596b01c)
-
-
-
-
-
+    - Lấy ra một miếng gạch tàu to.
